@@ -9,23 +9,24 @@
 
  <table style="table-layout: fixed; word-break: break-all; width: auto; height: auto;">
     <colgroup>
-        <col style="width: 25%">
-        <col style="width: 25%">
-        <col style="width: 25%">
-        <col style="width: 25%">
+        <col style="width: 20%">
+        <col style="width: 20%">
+        <col style="width: 20%">
+        <col style="width: 20%">
+        <col style="width: 20%">
     </colgroup>
     <tbody>
         <tr>
             <td style="text-align: center"><a href='https://github.com/azxca1731'>이정훈</a></td>
             <td style="text-align: center"><a href="https://github.com/chanhl22">이찬희</a></td>
             <td style="text-align: center"><a href="https://github.com/doho-ho">이동호</a></td>
-            <td style="text-align: center"><a href="https://github.com/skullkim">김윤가</a></td>
+            <td style="text-align: center"><a href="https://github.com/skullkim">김윤기</a></td>
             <td style="text-align: center"><a href="https://github.com/gudonghee2000">구동희</a></td>
         </tr>
         <tr>
             <td><img src="https://avatars.githubusercontent.com/u/18136160?v=4&size=130" alt="junghun image"></td>
             <td><img src="https://avatars.githubusercontent.com/u/77683221?v=4&size=130" alt="chanhee image"></td>
-            <td><img src="https://github.com/yhh1056.png?size=130" alt="dongho image"></td>
+            <td><img src="https://avatars.githubusercontent.com/u/18136160?v=4&size=130" alt="dongho image"></td>
             <td><img src="https://github.com/skullkim.png?size=130" alt="yunki image"></td>
             <td><img src="https://avatars.githubusercontent.com/u/71062817?v=4&size=130" alt="donghee image"></td>
         </tr>
