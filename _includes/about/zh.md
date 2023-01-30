@@ -1,7 +1,4 @@
 # 내 주변 전시 정보를 한눈에 모아보기 쉽게!
-<img width="1676" alt="스크린샷 2022-07-08 오후 3 26 25" src="https://user-images.githubusercontent.com/94965944/177930267-07911233-60b7-41ba-9ad6-0ae985521f57.png">
-
-<br>
 
 # teamesa 😎
 
@@ -77,3 +74,8 @@
     </tr>
     </tbody>
 </table>
+
+<br>
+
+<img width="1676" alt="스크린샷 2022-07-08 오후 3 26 25" src="/img/used-skills.png">
+
