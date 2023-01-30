@@ -36,17 +36,44 @@
 ### Frontend
 <table style="table-layout: fixed; word-break: break-all; width: auto; height: auto;">
     <colgroup>
-        <col style="width: 50%">
-        <col style="width: 50%">
+        <col style="width: 33%">
+        <col style="width: 33%">
+        <col style="width: 33%">
     </colgroup>
     <tbody>
     <tr>
-        <td style="text-align: center"><a href='https://github.com/KangYunHo1221'>비녀</a></td>
-        <td style="text-align: center"><a href="https://github.com/kwannee">후이</a></td>
+        <td style="text-align: center"><a href='https://github.com/kimhan0421'>김한솔</a></td>
+        <td style="text-align: center"><a href="https://github.com/mndangee">김민혜</a></td>
+        <td style="text-align: center"><a href="https://github.com/truthone">한정아</a></td>
     </tr>
     <tr>
-        <td><img src="https://github.com/KangYunHo1221.png?size=130" alt="hoho image"></td>
-        <td><img src="https://github.com/kwannee.png?size=130" alt="skull image"></td>
+        <td><img src="https://avatars.githubusercontent.com/u/48988891?v=4&size=130" alt="hansole image"></td>
+        <td><img src="https://avatars.githubusercontent.com/u/38105502?v=4&size=130" alt="minhye image"></td>
+        <td><img src="https://avatars.githubusercontent.com/u/32234327?v=4&size=130" alt="junga image"></td>
+    </tr>
+    </tbody>
+</table>
+
+## Planner & PM
+<table style="table-layout: fixed; word-break: break-all; width: auto; height: auto;">
+    <colgroup>
+        <col style="width: 100%">
+    </colgroup>
+    <tbody>
+    <tr>
+        <td style="text-align: center"><a href='#'>김세영</a></td>
+    </tr>
+    </tbody>
+</table>
+
+# Designer
+<table style="table-layout: fixed; word-break: break-all; width: auto; height: auto;">
+    <colgroup>
+        <col style="width: 100%">
+    </colgroup>
+    <tbody>
+    <tr>
+        <td style="text-align: center"><a href='#'>이유정</a></td>
     </tr>
     </tbody>
 </table>
